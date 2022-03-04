@@ -1,0 +1,22 @@
+These are the required external libraries
+tkinter
+opencv
+numpy
+PIL
+imutils
+time
+mediapipe
+os
+VapourSynth std (https://amusementclub.github.io/doc3/includedplugins.html)
+VapourSynth Included Plugins(https://amusementclub.github.io/doc3/functions.html)
+havsfunc (https://github.com/HomeOfVapourSynthEvolution/havsfunc)
+mvsfunc (https://github.com/HomeOfVapourSynthEvolution/mvsfunc)
+BM3D (https://github.com/HomeOfVapourSynthEvolution/VapourSynth-BM3D)
+TCanny (https://github.com/HomeOfVapourSynthEvolution/VapourSynth-TCanny)
+EEDI2 (https://github.com/HomeOfVapourSynthEvolution/VapourSynth-EEDI2)
+znedi3 (https://github.com/sekrit-twc/znedi3)
+sangnom (https://github.com/dubhater/vapoursynth-sangnom)
+rgvs (https://amusementclub.github.io/doc3/plugins/rgvs.html)
+f3kdb (https://github.com/SAPikachu/flash3kyuu_deband)
+awarpsharp2 (https://github.com/dubhater/vapoursynth-awarpsharp2)
+fmtconv (https://github.com/EleonoreMizo/fmtconv)
